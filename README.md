@@ -58,6 +58,7 @@
 - [Music City Code](http://www.musiccitycode.com/) - September 5-7 in Nashville, TN
 
 ### October
+- [Scenic City Summit](https://www.sceniccitysummit.com/2019) - October 4 in Chattanooga, TN
 - [Smashing Conf New York](https://smashingconf.com/ny-2019/) - October 15-16 in New York, NY
 - [An Event Apart Denver](https://aneventapart.com/event/denver-2019) - October 28-30 in Denver, CO
 
@@ -125,6 +126,7 @@
 - [PyTennessee](https://www.pytennessee.org/) - February 9-10 in Nashville, TN
 - [CodeStock](http://codestock.org/) - April 12-13 in Knoxville, TN
 - [Music City Code](http://www.musiccitycode.com/) - September 5-7 in Nashville, TN
+- [Scenic City Summit](https://www.sceniccitysummit.com/2019) - October 4 in Chattanooga, TN
 
 ### Utah
 - [ng-conf](https://www.ng-conf.org/) - May 1-3 in Salt Lake City, UT
